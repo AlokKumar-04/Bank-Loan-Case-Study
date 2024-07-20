@@ -54,5 +54,3 @@ This project involves a comprehensive analysis of a bank loan dataset to underst
 This project systematically cleaned, analyzed, and visualized data to provide valuable insights into factors influencing loan defaults. The findings pave the way for more informed decision-making and risk management in the banking sector.
 
 ---
-
-For any questions or further information, please contact [Your Name].
